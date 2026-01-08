@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 500,
+    "horizontalStartingIndex": 499,
+    "horizontalWrap": true,
+    "name": "orologio ANIMAZIONE.172",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
